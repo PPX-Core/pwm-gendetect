@@ -25,7 +25,7 @@ This is PWM signal generator/detector, which can detect 1 MHz ~ 2 Hz PWM signal 
 * Accuracy: Not measured
 
 # Key Functions
-*SW1: enable PWM output edit / digit up
-*SW2: enable or disable PWM output / digit down
-*SW3: enable or disable PWM input / cursor left
-*SW4: disable PWM output edit / cursor right
+* SW1: enable PWM output edit / digit up
+* SW2: enable or disable PWM output / digit down
+* SW3: enable or disable PWM input / cursor left
+* SW4: disable PWM output edit / cursor right
